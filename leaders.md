@@ -1,3 +1,3 @@
 ### Leaders
-* [Oscar Orellana](mailto:oscar.orellana@owasp.org)
+* [Oscar Orellana](mailto:oscar.orellana.artigas@owasp.org)
 * [Pedro Escudero](mailto:pedro.escudero@owasp.org)
