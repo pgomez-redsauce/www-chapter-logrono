@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Logrono
 tags: example-tag
 region: Europe
+country: Spain
 meetup-group:
 
 ---
