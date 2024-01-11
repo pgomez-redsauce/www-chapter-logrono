@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Oscar Orellana](mailto:oscar.orellana@owasp.org)
+* [Pedro Escudero](mailto:pedro.escudero@owasp.org)
