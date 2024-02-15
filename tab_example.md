@@ -14,6 +14,17 @@ In this time we have the participation as speaker Leocadio Marrero, David Reyes,
 
 Soon we are shearing the videos of the event.
 
+![IMG_2881](https://github.com/OWASP/www-chapter-logrono/assets/49035692/d50e1a4e-c85c-4a74-a0be-831dc82bc8d1)
+
+![IMG_3547](https://github.com/OWASP/www-chapter-logrono/assets/49035692/b25f9e04-d639-4916-9fa8-00850bea3fb0)
+
+![IMG_3548](https://github.com/OWASP/www-chapter-logrono/assets/49035692/c9f346da-88f8-4b4d-8435-3867898e1ead)
+
+![IMG_3552](https://github.com/OWASP/www-chapter-logrono/assets/49035692/8efd02c5-c026-4ff6-a02d-0935cfb80dcd)
+
 ![IMG_2891](https://github.com/OWASP/www-chapter-logrono/assets/49035692/95563cf7-0cd9-4f79-a1ea-c0e94301bd65)
 
 ![IMG_2901](https://github.com/OWASP/www-chapter-logrono/assets/49035692/c064291b-a4b3-4c2e-92ee-409e0a8aae9a)
+
+![IMG_2903](https://github.com/OWASP/www-chapter-logrono/assets/49035692/43358ca4-9d59-414a-8b00-4470f2bef521)
+
