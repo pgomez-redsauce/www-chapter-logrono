@@ -6,7 +6,7 @@ order: 1
 tags: example-tag
 ---
 
-## Example
+## Event
 
 Our last event in Logroño was an amazing opportunity to explain what OWASP means, the different participant share the field knowledge and we have a great moment.
 
