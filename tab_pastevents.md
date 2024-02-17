@@ -19,7 +19,7 @@ Soon we are shearing the videos of the event.
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
-    <img src="/assets/images/IMG_2881.jpg)">
+    <img src="/assets/images/IMG_2881.jpg">
 </td>
 
 ![IMG_2881]()
