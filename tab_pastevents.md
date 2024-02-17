@@ -21,17 +21,26 @@ Soon we are shearing the videos of the event.
     <img src="assets/images/IMG_2881.jpg">
 </td>
 
-![IMG_2881](/assets/images/IMG_2881.jpg)
+<td>
+    <img src="assets/images/IMG_3547.jpg">
+</td>
 
-![IMG_3547](/assets/images/IMG_3547.jpg)
+<td>
+    <img src="assets/images/IMG_3548.jpg">
+</td>
 
-![IMG_3548](/assets/images/IMG_3548.jpg)
+<td>
+    <img src="assets/images/IMG_3552.jpg">
+</td>
 
-![IMG_3552](/assets/images/IMG_3552.jpg)
+<td>
+    <img src="assets/images/IMG_2891.jpg">
+</td>
 
-![IMG_2891](/assets/images/IMG_2891.jpg)
+<td>
+    <img src="assets/images/IMG_2901.jpg">
+</td>
 
-![IMG_2901](/assets/images/IMG_2901.jpg)
-
-![IMG_2903](/assets/images/IMG_2903.jpg)
-
+<td>
+    <img src="assets/images/IMG_2903.jpg">
+</td>
