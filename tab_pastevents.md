@@ -20,6 +20,7 @@ Soon we are shearing the videos of the event.
 <td>
     <img src="assets/images/IMG_2881.jpg">
 </td>
+
 ![IMG_2881](/assets/images/IMG_2881.jpg)
 
 ![IMG_3547](/assets/images/IMG_3547.jpg)
