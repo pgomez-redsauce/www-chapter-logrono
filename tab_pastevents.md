@@ -19,10 +19,10 @@ Soon we are shearing the videos of the event.
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
-    <img src="/assets/images/IMG_2881.jpg">
+    <img src="">
 </td>
 
-![IMG_2881]()
+![IMG_2881](/assets/images/IMG_2881.jpg)
 
 ![IMG_3547](https://github.com/OWASP/www-chapter-logrono/assets/49035692/b25f9e04-d639-4916-9fa8-00850bea3fb0)
 
