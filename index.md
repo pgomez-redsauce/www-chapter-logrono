@@ -2,7 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Logrono, La Rioja
-tags: Events-tag
+site_side: true
+tags: logrono
+level: 3
 region: Europe
 country: Spain
 meetup-group:
