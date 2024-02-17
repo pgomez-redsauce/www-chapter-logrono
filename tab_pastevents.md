@@ -16,8 +16,13 @@ Our last event in Logroño was an amazing opportunity to explain what OWASP mean
 In this time we have the participation as speaker Leocadio Marrero, David Reyes, Spyros, Oscar Orellana and Grant Onger, you can see the event pictures in here.
 
 Soon we are shearing the videos of the event.
+<table cellpadding="15" cellspacing="0">
+<tr>
+<td>
+    <img src="[assets/images/VeraCode_logo.png](https://github.com/OWASP/www-chapter-logrono/assets/49035692/d50e1a4e-c85c-4a74-a0be-831dc82bc8d1)">
+</td>
 
-![IMG_2881](https://github.com/OWASP/www-chapter-logrono/assets/49035692/d50e1a4e-c85c-4a74-a0be-831dc82bc8d1)
+![IMG_2881]()
 
 ![IMG_3547](https://github.com/OWASP/www-chapter-logrono/assets/49035692/b25f9e04-d639-4916-9fa8-00850bea3fb0)
 
