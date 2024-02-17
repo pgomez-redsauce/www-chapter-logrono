@@ -1,12 +1,15 @@
 ---
-title: Events
+title: PastEvents
+displaytext: Past Events
 layout:  null
 tab: true
-order: 1
-tags: events-tag
+order: 2
+tags: logrono
 ---
 
-## Event
+## Past Events
+
+#### Friday, 9th Febrary 2024 10:00am (in-person)
 
 Our last event in Logroño was an amazing opportunity to explain what OWASP means, the different participant share the field knowledge and we have a great moment.
 
