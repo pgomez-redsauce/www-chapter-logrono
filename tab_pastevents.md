@@ -9,6 +9,35 @@ tags: logrono
 
 ## Past Events
 
+#### Thursday, 25th July 2024 04:00pm (in-person)
+
+Our last event in Logroño was an amazing opportunity to explain about threat modeling.
+
+In this time we have the participation as speaker Takaharu Ogaza, OWASP Sendai leader you can see the event pictures in here.
+
+
+<td>
+    <img src="assets/images/25_7_2024_1.jpeg">
+</td>
+
+<td>
+    <img src="assets/images/25_7_2024_2.jpeg">
+</td>
+
+<td>
+    <img src="assets/images/25_7_2024_3.jpeg">
+</td>
+
+<td>
+    <img src="assets/images/25_7_2024_4.jpeg">
+</td>
+
+<td>
+    <img src="assets/images/25_7_2024_5.jpeg">
+</td>
+
+
+
 #### Friday, 9th Febrary 2024 10:00am (in-person)
 
 Our last event in Logroño was an amazing opportunity to explain what OWASP means, the different participant share the field knowledge and we have a great moment.
