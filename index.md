@@ -11,6 +11,9 @@ meetup-group:
 
 ---
 <div style='color:black;'>
+<td>
+    <img src="assets/images/logrono.png">
+</td>
 
 This is the injformation about Logroño, La Rioja Chapter, in this abstract you will find the information about the meeting, social media and others:
 
