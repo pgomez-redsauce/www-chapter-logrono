@@ -12,7 +12,7 @@ meetup-group:
 ---
 <div style='color:black;'>
 <td>
-    <img src="assets/images/logrono.png">
+    <img src="assets/images/PHOTO-2024-09-02-20-49-03 2.jpg">
 </td>
 <ul>
 
