@@ -33,7 +33,7 @@ This is the injformation about Logroño, La Rioja Chapter, in this abstract you 
 </ul>
 <li>Our chapter is the newest of OWASP, but we are looking to actively contribute to each of our meetings and actions aimed at putting the issue of cybersecurity as an integral part of today's world and giving the importance of the constant mutual cooperation that each of the members of our chapter must have.</li>
 
-</td>
+<td>
 
 ## Participation
 </ul>
@@ -43,7 +43,7 @@ This is the injformation about Logroño, La Rioja Chapter, in this abstract you 
 
 <li>Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button.</li>
 
-</td>
+<td>
 
 <li>Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/). We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.</li>
 
@@ -52,3 +52,4 @@ This is the injformation about Logroño, La Rioja Chapter, in this abstract you 
 ## Next Meeting/Event
 ---------------------
 </ul>
+</td>
