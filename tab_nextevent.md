@@ -2,10 +2,10 @@
 
 title: NextEvent
 displaytext: Next Event
-layout: null
+layout: true
 tab: true
-order: 1
-tags: london
+order: 2
+tags: logrono
 
 ---
 
