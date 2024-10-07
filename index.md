@@ -7,7 +7,7 @@ tags: logrono
 level: 3
 region: Europe
 country: Spain
-meetup-group:
+meetup-group: https://www.meetup.com/owasp-logrono-chapter/
 
 ---
 <div style='color:black;'>
