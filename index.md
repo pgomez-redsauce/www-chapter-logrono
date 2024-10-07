@@ -28,16 +28,16 @@ This is the injformation about Logroño, La Rioja Chapter, in this abstract you 
 
 <li>meetup-group: https://www.meetup.com/owasp-logrono-chapter/</li>
 </ul>
+
 <td>
 ## Welcome
-</ul>
 <li>Our chapter is the newest of OWASP, but we are looking to actively contribute to each of our meetings and actions aimed at putting the issue of cybersecurity as an integral part of today's world and giving the importance of the constant mutual cooperation that each of the members of our chapter must have.</li>
 </td>
 
 <td>
 
 ## Participation
-</ul>
+
 <li>The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.</li>
 
 </td>
